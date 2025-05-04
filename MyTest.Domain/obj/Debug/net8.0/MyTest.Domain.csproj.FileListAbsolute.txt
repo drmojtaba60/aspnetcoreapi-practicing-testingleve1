@@ -20,3 +20,4 @@ D:\developing\Asp.netCore\MyPractice\Testing\TestPracticing\MyTest.Domain\obj\De
 D:\developing\Asp.netCore\MyPractice\Testing\TestPracticing\MyTest.Domain\obj\Debug\net8.0\refint\MyTest.Domain.dll
 D:\developing\Asp.netCore\MyPractice\Testing\TestPracticing\MyTest.Domain\obj\Debug\net8.0\MyTest.Domain.pdb
 D:\developing\Asp.netCore\MyPractice\Testing\TestPracticing\MyTest.Domain\obj\Debug\net8.0\ref\MyTest.Domain.dll
+D:\developing\Asp.netCore\MyPractice\Testing\TestPracticing\MyTest.Domain\obj\Debug\net8.0\MyTest.Domain.sourcelink.json

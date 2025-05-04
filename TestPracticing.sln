@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest.Persistence", "MyTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTest.PersistenceTests", "MyTest.PersistenceTests\MyTest.PersistenceTests.csproj", "{DA4E2419-112A-4310-B3CF-7218FEA85EE0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{C1AB4C2E-9CC1-4F21-BE61-0D1DC4DD4206}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,7 @@ Global
 		{4920AA21-FAA3-45B4-B772-0ACD2643B12B} = {9AD0853C-557D-4895-AEF9-71F4E8A5D5C7}
 		{F29069BB-4A2A-4031-9804-CE39902F0DA1} = {4920AA21-FAA3-45B4-B772-0ACD2643B12B}
 		{DA4E2419-112A-4310-B3CF-7218FEA85EE0} = {4920AA21-FAA3-45B4-B772-0ACD2643B12B}
+		{C1AB4C2E-9CC1-4F21-BE61-0D1DC4DD4206} = {9AD0853C-557D-4895-AEF9-71F4E8A5D5C7}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{F3D0D094-1216-42F3-A517-98402D3FA037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
